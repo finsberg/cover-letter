@@ -8,6 +8,8 @@ Create your letter by following the template provided by the example letter `cov
 make
 ```
 
+An example of how the final version will look like can be found in [coverletter.pdf](coverletter.pdf)
+
 # Dependencies
 This tool is pretty light on dependencies. All you need is to have Pandoc running on your computer. Don't yet have Pandoc? Follow the installation instructions [here](https://pandoc.org/installing.html).
 
